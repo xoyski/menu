@@ -1,0 +1,71 @@
+*{
+margin: 0;
+padding: 0;
+font-family: 'Baloo 2', cursive;
+}
+body{
+  background-color: ;
+  background: url(../img/arxaplan.png) no-repeat center center fixed;
+  -webkit-background-size: cover;
+     -moz-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+
+}
+.header__list  li h1{
+  color: E7305B;
+}
+.header{
+  position: relative;
+  display: flex;
+  justify-content: left;
+  margin-top: auto;
+  background: #DFE0DF ;
+  max-width: inherit;
+  padding: 20px;
+  padding-left: 40px;
+}
+.header__menu li{
+display: inline-block;
+font-size: 25px;
+}
+.header__menu{
+
+}
+.header__list a{
+  color: black;
+
+}
+.header__menu ul{
+  list-style: none;
+  display: inline-block;
+  padding-bottom:  10px;
+}
+.header__menu li a{
+  text-decoration: none;
+  padding: 30px ;
+}
+.header__menu li a:hover{
+  color: #E7305B;
+  transition: all 0.3s ease;
+  font-size: ;
+  text-decoration: underline;
+}
+.esasyazi{
+  text-align: left;
+  margin-left: 90px;
+   margin-right: auto;
+   margin-top: 5%;
+   max-width: 20em;
+   font-size:40px;
+   word-spacing: 0;
+   color: #DFE0DF;
+}
+.biq{
+  width: 175px;
+  height: 50px;
+margin-top: 10px;
+}
+.arxaplan{
+  margin-top: -100px;
+}
